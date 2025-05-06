@@ -84,7 +84,7 @@
 
   <build>
     <plugins>
-      <!-- Maven Compiler Plugin with --add-exports fix for Java 16+ -->
+      <!-- Maven Compiler Plugin with add-exports fix for Java 16+ -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
